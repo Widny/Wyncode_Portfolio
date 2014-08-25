@@ -1,0 +1,40 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	border-color: #6f5499;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	border-style: solid;
+	margin: 50px auto 0 auto;
+	text-align: center;
+	background-color: #6f5499;
+	font: white;
+
+}
+
+.circular h1 {
+	margin-top: 116px;
+}
+
+/*header {
+	
+	padding:30px;
+	background-color: #6f5499;
+	position: relative;
+
+}*/
+
+/*.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+}*/
